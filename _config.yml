@@ -12,7 +12,7 @@ site_title: jotter.io
 company_name: jotter.io
 # this appears in the footer
 
-github_editme_path: jasemagee/jasemagee.github.io/tree/master
+github_editme_path: jasemagee/jasemagee.github.io/blob/master
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 #disqus_shortname: idrbwjekyll
@@ -93,11 +93,12 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
+ - gamedev_sidebar
+ - home_sidebar
+ - mydoc_sidebar
+ - product1_sidebar
+ - product2_sidebar
+ - other
 
 description: "jotter.io is a resource list for game development."
 # the description is used in the feed.xml file
