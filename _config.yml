@@ -93,11 +93,10 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
- - gamedev_sidebar
+ - general_sidebar
+ - unity_sidebar
+ - gamemaker_sidebar
  - home_sidebar
- - mydoc_sidebar
- - product1_sidebar
- - product2_sidebar
  - other
 
 description: "jotter.io is a resource list for game development."

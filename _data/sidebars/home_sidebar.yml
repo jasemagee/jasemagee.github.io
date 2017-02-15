@@ -11,6 +11,12 @@ entries:
     - title: News
       url: /index.html
       output: web
-    - title: Gamedev
-      url: /gamedev_landing.html
+    - title: General
+      url: /general_landing.html
+      output: web
+    - title: Unity
+      url: /unity_landing.html
+      output: web
+    - title: GameMaker
+      url: /gamemaker_landing.html
       output: web
