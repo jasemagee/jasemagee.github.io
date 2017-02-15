@@ -25,7 +25,7 @@ summary: These brief instructions will help you get started quickly with the the
 
         {% endfor %}
 
-        <p><a href="feed.xml"" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p>
+        <p><a href="feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p>
 
 <hr />
         <p>See more posts from the <a href="news_archive.html">News Archive</a>. </p>

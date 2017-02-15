@@ -105,3 +105,5 @@ description: "jotter.io is a resource list for game development."
 # needed for sitemap.xml file only
 url: jasemagee.github.io
 baseurl: /jasemagee.github.io
+
+google_analytics: UA-3454450-12
