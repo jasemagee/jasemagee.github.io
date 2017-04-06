@@ -3,7 +3,7 @@
 
 entries:
 - title: Sidebar
-  product: General
+  product: Blender
   version: 1.0
   folders:
 
@@ -20,9 +20,9 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: General
+  - title: Blender
     output: web, pdf
     folderitems:
-    - title: General
-      url: /general_landing.html
+    - title: Blender
+      url: /blender_landing.html
       output: web

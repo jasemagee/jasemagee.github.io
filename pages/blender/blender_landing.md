@@ -1,0 +1,15 @@
+---
+title: Blender
+keywords: blender
+sidebar: blender_sidebar
+permalink: blender_landing.html
+folder: blender
+---
+
+## Udemy
+
+When it comes to Udemy courses, *never* pay the asking price. There's always massive discounts or voucher codes just a google away.
+
+### Learn 3D Modelling - The Complete Blender Creator Course
+
+[Link](https://www.udemy.com/blendertutorial/learn/v4/overview)

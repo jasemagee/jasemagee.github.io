@@ -95,7 +95,7 @@ defaults:
 sidebars:
  - general_sidebar
  - unity_sidebar
- - gamemaker_sidebar
+ - blender_sidebar
  - home_sidebar
  - other
 

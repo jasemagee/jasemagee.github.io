@@ -16,8 +16,8 @@ entries:
     - title: Unity
       url: /unity_landing.html
       output: web
-    - title: GameMaker
-      url: /gamemaker_landing.html
+    - title: Blender
+      url: /blender_landing.html
       output: web
   - title: Tags
     output: web
