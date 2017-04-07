@@ -1,11 +1,11 @@
 ---
-title: Getting started with the Documentation Theme for Jekyll
+title: Welcome to Jotter.io
 keywords: sample homepage
 tags: [getting_started]
 sidebar: home_sidebar
 permalink: index.html
 toc: false
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary: Jotter.io is a list of resources and tutorials to help with games developement primarily targetted at general, Blender and Unity knowledge.
 ---
 
 <div class="home">
@@ -21,8 +21,8 @@ summary: These brief instructions will help you get started quickly with the the
                 <a href="{{ "tag_" | append: tag | append: ".html"}}">{{tag}}</a>{% unless forloop.last %}, {% endunless%}
 
                 {% endfor %}</span>
-        <p>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ post.content | truncatewords: 50 | strip_html }} {% endif %}</p>
-
+<!--        <p>{% if post.summary %} {{ post.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ post.content | truncatewords: 50 | strip_html }} {% endif %}</p>-->
+{{ post.content }}
         {% endfor %}
 
         <p><a href="feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p>
