@@ -18,6 +18,32 @@ Resources for understanding path-finding, AI, tiles, hexagons, game design, scri
 [Home](http://www.redblobgames.com/)
 [List of Resources](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 
+### digitalerr0r 
+
+Good range of tutorials covering Unity, XNA, HTML5 and DirectX.
+
+[Home](https://digitalerr0r.wordpress.com/)
+[List of Tutorials](https://digitalerr0r.wordpress.com/tutorials/)
+
+### Lou's Pseudo 3d Page
+
+Ever wanted to make a Pseudo 3D game similar to OutRun?  This is the place to start.
+
+[Link](http://www.extentofthejam.com/pseudo/)
+
+
+### DasPeTe Tutorials
+
+Covers a couple of small games such as Simon Says, Snake and Curve Fever alongside a bunch of Tower Defence tutorials.
+
+[Link](http://tutorials.daspete.at/)
+
+### 40+ Fantastic Game Development Tutorials From Across the Web
+
+This is basically a massive dump of tutorials covering maths, design, presentation and programming.
+
+[Link](https://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384)
+
 ## Videos
 
 ## Emails
