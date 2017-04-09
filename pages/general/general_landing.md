@@ -44,6 +44,13 @@ This is basically a massive dump of tutorials covering maths, design, presentati
 
 [Link](https://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384)
 
+### Toymaker
+
+Toymaker is maintained lecturer at Teesside University who worked for Westwood Studios. There are a bunch of resources for learning DirectX and XNA as well as more generic information.
+
+[Link](http://www.toymaker.info/)
+
+
 ## Videos
 
 ## Emails
